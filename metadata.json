@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Leaf Disease Detection AI",
+  "description": "An AI-powered tool to help gardeners and farmers identify plant diseases from leaf images. Upload a photo of a leaf, and the AI will analyze it to detect diseases, suggest treatments, and provide prevention tips.",
+  "requestFramePermissions": []
+}
